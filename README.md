@@ -22,19 +22,19 @@ Software design task.
 
 Hello, world!
 
-> FILE=example.txt
+:> FILE=example.txt
 
-> cat $FILE
+:> cat $FILE
 
 Some example text
 
-> cat example.txt | wc
+:> cat example.txt | wc
 
 1 3 18
 
-> echo 123 | wc1 1 3
+:> echo 123 | wc1 1 3
 
-> x=ex> y=it> $x$y
+:> x=ex:> y=it:> $x$y
 
 
 Решение должно удовлетворять следующим нефункциональным требованиям:
